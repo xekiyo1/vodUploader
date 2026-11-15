@@ -101,7 +101,7 @@ Para que el script funcione correctamente, tu carpeta debe tener la siguiente es
 
 
 
-## 🛠️ Configuración antes de ejecutar
+## Configuración antes de ejecutar
 
 
 ### 1. Formato obligatorio de los videos (`Source/`)
