@@ -27,7 +27,7 @@ Script en Python que automatiza la subida masiva de partidas (VODs) de torneos a
 
 
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 
 
