@@ -10,7 +10,7 @@ Script en Python que automatiza la subida masiva de partidas (VODs) de torneos a
 
 
 
-## ✨ Características Principales
+## Características Principales
 
 
 
@@ -61,7 +61,7 @@ Para que el script funcione correctamente, tu carpeta debe tener la siguiente es
 
 
 
-## ⚙️ Requisitos e Instalación
+## Requisitos e Instalación
 
 
 
